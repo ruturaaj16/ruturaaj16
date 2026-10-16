@@ -128,3 +128,7 @@
 - Huffmann Text Compressor
 - Image Editor from Scratch using Python & NumPy
 - Portfolio Builder
+
+## 🏆 Achievements
+- 500+ LeetCode questions in Python
+- Finalist in KJSSE Crackathon 2026
