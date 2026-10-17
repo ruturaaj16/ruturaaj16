@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Ruturaaj+Deshpande&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0&desc=Mastering+O%281%29+solutions+for+real-world+problems&descSize=20&descAlign=0&descAlignY=66)
 
-### 2nd-Year IT @ VJTI | Crafting scalable systems, solving DSA & CP challenges, and exploring AI/ML with C++, Python, & JavaScript.
+## Needs improvement
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruturaaj-deshpande" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
@@ -33,11 +33,6 @@
       <a href="https://www.w3.org/html/">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.markdownguide.org/">
-        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
-      </a><br>Markdown
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
@@ -102,11 +97,6 @@
       </a><br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.canva.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-      </a><br>Canva
-    </td>
-    <td align="center" width="96">
       <a href="https://www.vuejs.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Canva" />
       </a><br>VueJS
@@ -119,16 +109,14 @@
   </tr>
 </table>
 
-## 🔧 Skills
+## 🔧 Skills ( Add tech stack to skills )
 - **Python:** Data Structures & Algorithms (with CP)
 - **JavaScript:** Frontend with React & Vue, Backend with Node.js, Express.js
 - **Tools:** Git, GitHub, VS Code, Linux, UNIX CLI, Gemini, Claude, Antigravity, GitHub Copilot
 
-## 📂 Recent Projects
+## 📂 Recent Projects ( Make better projects )
 - Huffmann Text Compressor
 - Image Editor from Scratch using Python & NumPy
 - Portfolio Builder
 
-## 🏆 Achievements
-- 500+ LeetCode questions in Python
-- Finalist in KJSSE Crackathon 2026
+### Add links & description for each project
