@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Ruturaaj+Deshpande&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0&desc=Mastering+O%281%29+solutions+for+real-world+problems&descSize=20&descAlign=0&descAlignY=66)
 
-## Needs improvement
+<h2 align="center">AI/ML-focused undergrad at VJTI Mumbai | Python · ML · Security · Quant | Open to internships</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruturaaj-deshpande" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
@@ -8,6 +8,10 @@
   <a href="mailto:deshpanderuturaaj@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ruturaaj16.github.io" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" height="40" alt="Website" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/u/ruturaaj16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/leetcode/default.svg" height="40" alt="Website" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/hero_dragon" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codeforces/default.svg" height="40" alt="Website" /></a>
 </p>
 
 ## 💻 Tech Stack 
@@ -15,24 +19,14 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      </a><br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://isocpp.org">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      </a><br>C++
-    </td>
-    <td align="center" width="96">
       <a href="https://www.python.org">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
       </a><br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3.org/html/">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a><br>HTML5
+      <a href="https://isocpp.org">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      </a><br>C++
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
@@ -50,9 +44,19 @@
       </a><br>GitHub
     </td>
     <td align="center" width="96">
+      <a href="https://www.w3.org/html/">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a><br>HTML5
+    </td>
+    <td align="center" width="96">
       <a href="https://www.css3.com/">
         <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1280px-CSS3_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="48" height="48" alt="Canva" />
       </a><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Premiere Pro" />
+      </a><br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.expressjs.com/" style="background: white">
@@ -61,16 +65,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://opencv.org/">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      </a><br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.anaconda.com/">
-        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      </a><br>Anaconda
-    </td>
     <td align="center" width="96">
       <a href="https://numpy.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
@@ -87,19 +81,29 @@
       </a><br>Matplotlib
     </td>
     <td align="center" width="96">
+      <a href="https://www.anaconda.com/">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      </a><br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href="https://opencv.org/">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      </a><br>OpenCV
+    </td>
+    <td align="center" width="96">
       <a href="https://www.nodejs.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Photoshop" />
       </a><br>Node.JS
     </td>
     <td align="center" width="96">
-      <a href="https://www.javascript.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Premiere Pro" />
-      </a><br>JavaScript
-    </td>
-    <td align="center" width="96">
       <a href="https://www.vuejs.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Canva" />
       </a><br>VueJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      </a><br>C
     </td>
     <td align="center" width="96">
       <a href="https://www.blackmagicdesign.com/in/products/davinciresolve">
@@ -110,13 +114,31 @@
 </table>
 
 ## 🔧 Skills ( Add tech stack to skills )
-- **Python:** Data Structures & Algorithms (with CP)
-- **JavaScript:** Frontend with React & Vue, Backend with Node.js, Express.js
-- **Tools:** Git, GitHub, VS Code, Linux, UNIX CLI, Gemini, Claude, Antigravity, GitHub Copilot
+
+- **Python:**
+  - [🔗](https://leetcode.com/u/ruturaaj16/) Data Structures & Algorithms
+  - [🔗](https://leetcode.com/u/ruturaaj16/) NumPy, Pandas & Matplotlib
+  - [🔗](https://leetcode.com/u/ruturaaj16/) OpenCV
+
+- **JavaScript:**
+  - Vanilla JavaScript
+  - Vue.JS
+  - React.JS
+  - JQuery
+
+- **Tools:**
+  - Git
+  - GitHub
+  - VS Code
+  - Linux (Ubuntu) / Unix
+  - Gemini & Antigravity
+  - Claude
 
 ## 📂 Recent Projects ( Make better projects )
-- Huffmann Text Compressor
-- Image Editor from Scratch using Python & NumPy
-- Portfolio Builder
+- [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Huffman Text Compressor
+- [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Image Editor from Scratch using Python & NumPy
+- [🔗](https://github.com/rndeshpande16/portfolio_builder_0.0.git) Portfolio Builder
+
+
 
 ### Add links & description for each project
