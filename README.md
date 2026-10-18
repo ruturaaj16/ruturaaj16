@@ -1,17 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Ruturaaj+Deshpande&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0&desc=Mastering+O%281%29+solutions+for+real-world+problems&descSize=20&descAlign=0&descAlignY=66)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Ruturaaj+Deshpande&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0)
 
 <h2 align="center">AI/ML-focused undergrad at VJTI Mumbai | Python · ML · Security · Quant | Open to internships</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruturaaj-deshpande" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ruturaaj-deshpande" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:deshpanderuturaaj@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" /></a>
+  <!-- Gmail -->
+  <a href="mailto:deshpanderuturaaj@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg" height="40" alt="Gmail" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ruturaaj16.github.io" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" height="40" alt="Website" /></a>
+  <!-- Website -->
+  <a href="https://www.ruturaaj16.github.io" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/17724/17724849.png" height="40" alt="Website" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/u/ruturaaj16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/leetcode/default.svg" height="40" alt="Website" /></a>
+  <!-- LeetCode -->
+  <a href="https://www.leetcode.com/u/ruturaaj16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/leetcode/default.svg" height="40" alt="LeetCode" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/hero_dragon" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codeforces/default.svg" height="40" alt="Website" /></a>
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/hero_dragon" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codeforces/default.svg" height="40" alt="CodeForces" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Hackerrank -->
+  <a href="https://www.hackerrank.com/profile/ruturaaj161" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/hackerrank/default.svg" height="40" alt="HackerRank" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/hero_dragon166" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codechef/default.svg" height="40" alt="CodeChef" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://www.github.com/ruturaaj16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/dark.svg" height="40" alt="Github" /></a>
 </p>
 
 ## 💻 Tech Stack 
@@ -138,7 +152,3 @@
 - [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Huffman Text Compressor
 - [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Image Editor from Scratch using Python & NumPy
 - [🔗](https://github.com/rndeshpande16/portfolio_builder_0.0.git) Portfolio Builder
-
-
-
-### Add links & description for each project
